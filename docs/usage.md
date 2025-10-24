@@ -5,3 +5,4 @@ Notes and usage details for lazyagent.
 - add a note about the defaults
 - link the usage section
 - clarify the setup steps
+- link the usage section
